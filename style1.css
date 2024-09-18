@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(61, 90, 164);
+    margin: 0;
+    padding: 0;
+}
+.mainbox{
+    border-radius: 9%;
+    color: black;
+    
+    padding: 10px;
+    background-color: antiquewhite;
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+}
+.image{
+    border-radius: 100%;
+    align-items: left;
+    justify-content: left;
+    width: 200px;
+    padding: 10px;
+}
+.mainh{
+    align-items: first baseline;
+    justify-content: left;
+}
+.mainhh{
+    align-items: first baseline;
+    justify-content: left;
+}
+.navbar{
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background: transparent;
+    display: flex;
+    padding: 5px ;
+}
+
+.imagee{
+    width: 380px;
+    height: 180px;
+    border-radius: 10%;
+    object-fit: cover;
+    padding: 10px;
+}
+.boxx{
+    border-radius: 10%;
+    color: black;
+    padding: 10px;
+    background-color: rgb(228, 206, 177);
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+}
+.boxx .tet{
+    padding: 0 10px;
+}
+.but{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+}
+.but .one{
+    
+        display: flex;
+        width: 100px;
+        padding: 10px 0;
+        text-align: center;
+        border-radius: 10%;
+        font-weight: bold;
+        border: 2px solid #0008f7;
+        background: transparent;
+        color: #000000;
+        overflow: hidden;
+        background-color: transparent;
+        font-size: large;
+        
+        
+
+}
+.but .two{
+    display: flex;
+    width: 80px;
+    padding: 10px 0;
+    text-align: center;
+    border-radius: 10%;
+    font-weight: bold;
+    border: 2px solid #0008f7;
+    background: transparent;
+    color: #000000;
+    overflow: hidden;
+    background-color: transparent;
+    
+}

@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(61, 90, 164);
+    margin: 0;
+    padding: 0;
+}
+.mainbox{
+    border-radius: 10%;
+    color: black;
+    
+    padding: 10px;
+    background-color: antiquewhite;
+    width: 600px;
+    height: 780px;
+    margin: 0 auto;
+}
+.image{
+    border-radius: 100%;
+    align-items: left;
+    justify-content: left;
+    width: 200px;
+    padding: 10px;
+}
+.mainh{
+    align-items: first baseline;
+    justify-content: left;
+}
+.mainhh{
+    align-items: first baseline;
+    justify-content: left;
+}
+.navbar{
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background: transparent;
+    display: flex;
+    padding: 5px ;
+}
+.pree{
+    align-items: center;
+    justify-content: center;
+}
